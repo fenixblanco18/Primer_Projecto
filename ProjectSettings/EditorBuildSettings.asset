@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/GameAsset/Pajarito.unity
+    guid: e90a31a6030e1ec4da0e81ef89869739
   m_configObjects: {}
